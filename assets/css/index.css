@@ -13,6 +13,16 @@
     justify-content: center;
     align-items: center;
  }  
+ .font{
+     font-size: 20px;
+     font-family: Arial, Helvetica, sans-serif;
+     color: midnightblue;
+ }
+ .title{
+     font-size: 25px;
+     font-family: sans-serif;
+     color: rgb(18, 9, 49);
+ }
  
  #menu li {
     display: inline;
@@ -38,7 +48,11 @@
  }
  
  .br-50 {
-    border-radius: 50%;
+    border-radius: 15%;
+ }
+ .tm-img{
+     width: 400px;
+     height: 300px;
  }
  
  .wh-300{
@@ -54,9 +68,7 @@
  
  .mb-50{
     margin-bottom: 50px;
- }
- 
- 
+ } 
  
  /*Estilos da página contato.html*/
  
